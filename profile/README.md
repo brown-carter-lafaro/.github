@@ -5,4 +5,4 @@
 
 ## Device location
 
-## Edge site
+## Edge site selection
